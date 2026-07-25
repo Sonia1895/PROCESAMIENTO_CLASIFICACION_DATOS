@@ -7,6 +7,6 @@
 Este repositorio se creó para la materia de procesamiento y clasificación de datos, que imparte el Dr. Alberto Benavides.
 
 #### Evidencias:
-- [Tarea 1](/)
+- [Tarea 1](//)
 - [Tarea 1](/Tarea_1.ipynb)
 - [Tarea 2](/)
