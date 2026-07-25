@@ -8,3 +8,4 @@ Este repositorio se creó para la materia de procesamiento y clasificación de d
 
 #### Evidencias:
 - [Tarea 1](/)
+- [Tarea 2](/)
