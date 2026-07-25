@@ -7,6 +7,5 @@
 Este repositorio se creó para la materia de procesamiento y clasificación de datos, que imparte el Dr. Alberto Benavides.
 
 #### Evidencias:
-- [Tarea 1](//)
-- [Tarea 1](../Tarea%201/)
+- [Tarea 1](./Tarea%201/)
 - [Tarea 2](/)
