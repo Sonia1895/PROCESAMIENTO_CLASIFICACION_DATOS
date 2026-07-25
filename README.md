@@ -8,4 +8,5 @@ Este repositorio se creó para la materia de procesamiento y clasificación de d
 
 #### Evidencias:
 - [Tarea 1](/)
+- [Tarea 1](/Tarea_1.ipynb)
 - [Tarea 2](/)
