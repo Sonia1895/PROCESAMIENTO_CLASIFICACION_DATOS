@@ -10,3 +10,6 @@ Este repositorio se creó para la materia de procesamiento y clasificación de d
 - [Tarea 1](./Tarea%201/)
 - [Tarea 2](./Tarea%202/)
 - [Tarea 3](./Tarea%203/)
+- [Tarea 4](./Tarea%204/)
+- [Tarea 5](./Tarea%205/)
+- [Tarea 6_7](./Tarea%206_7/)
